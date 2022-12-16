@@ -251,6 +251,10 @@ header .social-icon li a
 	{
 		padding-bottom: 32px;
 	}
+#about p span
+	{
+		font-weight: bold;
+	}
 #about .media-heading-wrapper .fa
 	{
 		border: 1px solid #fff;
@@ -283,6 +287,10 @@ header .social-icon li a
 #service .col-md-4:hover
 	{
 		background: #505050;
+	}
+#service p span
+	{
+			font-weight: bold;
 	}
 #service .active
 	{
